@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Vijay</h1>
-<h3 align="left">A passionate frontend developer. <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="30%"></img></h3>
+<h3 align="left">A passionate frontend developer. </h3>
+<img align="right"src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="40%"></img>
 
 - 📫 How to reach me **vjbegwani31@gmail.com**
 
